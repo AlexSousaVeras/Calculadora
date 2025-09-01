@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻Sou um estudante de Front-end, estou em busca dos conhecimentos necessários para exercer tal profissão em um futuro próximo.<br><br>💻Possuo um fascínio imenso pela área de T.I e inovações tecnológicas, <br>por isso  estou sempre atento as novidades no mundo da tecnologia. <br><br>👨🏼‍🎓Estou cursando Análise e Desenvolvimento de Sistemas<br><br>☝🏼"Rumo ao topo!!!"
+👨‍💻Sou um estudante de Programação com foco em FullStack, estou em busca dos conhecimentos necessários para exercer tal profissão em um futuro próximo.<br><br>💻Possuo um fascínio imenso pela área de T.I e inovações tecnológicas, <br>por isso  estou sempre atento as novidades no mundo da tecnologia. <br><br>👨🏼‍🎓Estou cursando Análise e Desenvolvimento de Sistemas<br><br>☝🏼"Rumo ao topo!!!"
 
 
 ## 🌐 Socials:
